@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "104Hz",
+  "base_artist": "ミセカイ",
+  "createdAt": "2025-12-14T15:00:25.162452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "104Hz",
+      "artist": "Misekai",
+      "has_synced": true,
+      "path": "select/01_104Hz_Misekai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "104Hz",
+      "artist": "Misekai",
+      "has_synced": true,
+      "path": "select/02_104Hz_Misekai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "104Hz",
+      "artist": "ミセカイ",
+      "has_synced": false,
+      "path": "select/pl_01_104Hz_ミセカイ.txt"
+    }
+  ]
+}
